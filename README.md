@@ -1,6 +1,6 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-(https://portafolio-one-tau-12.vercel.app/index.html)
+![Mi imagen](https://github.com/ccHope92/portafolio/blob/main/Imagem.png)
 
 ## Herramientas utilizadas:
 
@@ -12,6 +12,6 @@
 
 ## Hecho por:
 
-###Ana García
+###carlos cardozo
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
