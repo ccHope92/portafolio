@@ -1,6 +1,6 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![imagen](https://portafolio-one-tau-12.vercel.app/index.html)
+(https://portafolio-one-tau-12.vercel.app/index.html)
 
 ## Herramientas utilizadas:
 
